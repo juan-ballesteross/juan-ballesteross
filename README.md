@@ -2,8 +2,9 @@
 
 ### Estudiante de Ingeniería de Sistemas · Desarrollo de Software · Data Science & IA
 
-Soy estudiante de Ingeniería de Sistemas interesado en el desarrollo de
-software, la ciencia de datos y la inteligencia artificial.
+Soy estudiante de Ingeniería de Sistemas de la Pontificia Universidad Javeriana
+interesado en el desarrollo de software, la ciencia de datos y la inteligencia 
+artificial.
 
 Me gusta transformar problemas en soluciones mediante programación,
 análisis de datos y construcción de sistemas. A través de proyectos
