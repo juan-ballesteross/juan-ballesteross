@@ -1,6 +1,6 @@
 # Juan José Ballesteros
 
-### Systems Engineering Student · Software Developer · AI Enthusiast
+### Systems Engineering Student · Software Developer · Data Science & AI Enthusiast
 
 I'm a Systems Engineering student from Colombia focused on building
 software, exploring intelligent systems, and understanding how technology
