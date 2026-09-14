@@ -1,100 +1,204 @@
 # Juan José Ballesteros
 
-### Systems Engineering Student · Software Developer · Data Science & AI Enthusiast
+### Estudiante de Ingeniería de Sistemas · Desarrollo de Software · Data Science & IA
 
-I'm a Systems Engineering student from Colombia focused on building
-software, exploring intelligent systems, and understanding how technology
-can solve real-world problems.
+Soy estudiante de Ingeniería de Sistemas interesado en el desarrollo de
+software, la ciencia de datos y la inteligencia artificial.
 
-I enjoy working across the stack — from low-level systems and distributed
-applications to backend development, databases, and AI.
-
----
-
-## About Me
-
-- 🎓 Systems Engineering student at Pontificia Universidad Javeriana
-- 💻 Interested in Software Engineering and Backend Development
-- 🤖 Exploring Artificial Intelligence and intelligent systems
-- 🌐 Learning about Distributed Systems and Computer Networks
-- 🗄️ Interested in Databases, system design and scalable applications
-- 🚀 Building academic and personal projects to turn ideas into working software
-- 🇨🇴 Based in Bogotá, Colombia
+Me gusta transformar problemas en soluciones mediante programación,
+análisis de datos y construcción de sistemas. A través de proyectos
+académicos y personales he explorado diferentes áreas de la tecnología,
+desde sistemas operativos y aplicaciones distribuidas hasta análisis de
+datos y machine learning.
 
 ---
 
-## Tech Stack
+## Sobre mí
 
-### Languages
+- 🎓 Estudiante de Ingeniería de Sistemas
+- 💻 Interesado en desarrollo de software y backend
+- 📊 Apasionado por la ciencia de datos y el análisis de información
+- 🤖 Explorando inteligencia artificial y machine learning
+- 🌐 Interesado en sistemas distribuidos y redes
+- 🗄️ Experiencia trabajando con bases de datos
+- 🚀 Me gusta aprender construyendo proyectos y resolviendo problemas reales
+
+---
+
+## Tecnologías
+
+### Lenguajes
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css" />
 </p>
 
-### Technologies & Tools
+### Data Science & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,mysql,postgres,git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+
+### Análisis y Visualización
+
+- Power BI
+- Tableau
+- Matplotlib
+
+### Desarrollo
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,react" />
+</p>
+
+- Desarrollo de aplicaciones
+- APIs REST
+- Programación orientada a objetos
+- Arquitectura cliente-servidor
+
+### Bases de Datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+</p>
+
+### Herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
 </p>
 
 ---
 
-## What I'm Working On
+## Áreas de interés
 
-### Software Engineering
-Building applications while learning about:
+### 📊 Data Science
 
-- Object-Oriented Programming
-- Software Architecture
-- REST APIs
-- Distributed Systems
-- Databases
-- System Design
+Me interesa utilizar los datos para descubrir patrones, generar
+información útil y apoyar la toma de decisiones.
 
-### Artificial Intelligence
+Actualmente exploro herramientas como:
 
-Exploring:
+`Python` · `NumPy` · `Pandas` · `Scikit-learn` · `Power BI` · `Tableau`
+
+### 🤖 Inteligencia Artificial
+
+Interesado en machine learning, algoritmos de búsqueda, optimización
+y construcción de sistemas inteligentes.
+
+`Scikit-learn` · `TensorFlow` · `Python`
+
+### 💻 Ingeniería de Software
+
+Me interesa diseñar y construir aplicaciones mantenibles, eficientes y
+orientadas a resolver problemas reales.
+
+`Java` · `Spring` · `Python` · `JavaScript`
+
+### 🌐 Sistemas
+
+También estoy fortaleciendo mis conocimientos en sistemas de bajo nivel
+y aplicaciones distribuidas.
+
+`C` · `Linux` · `POSIX` · `RMI` · `Concurrencia`
+
+---
+
+## Proyectos destacados
+
+### Sistemas Operativos
+
+Implementaciones y experimentos relacionados con procesos,
+comunicación entre procesos, sincronización, concurrencia y programación
+paralela.
+
+**Tecnologías:** `C` · `Linux` · `POSIX` · `Pthreads`
+
+---
+
+### Sistemas Distribuidos
+
+Desarrollo de aplicaciones cliente-servidor y comunicación distribuida,
+explorando diferentes mecanismos de interacción entre sistemas.
+
+**Tecnologías:** `Java` · `RMI`
+
+---
+
+### Inteligencia Artificial & Algoritmos
+
+Implementación de algoritmos de búsqueda, optimización y resolución de
+problemas utilizando diferentes estrategias computacionales.
+
+**Tecnologías:** `Python` · `Scikit-learn` · `NumPy`
+
+---
+
+### Data Science & Analytics
+
+Exploración y análisis de datos mediante técnicas de procesamiento,
+visualización y machine learning.
+
+**Tecnologías:** `Python` · `Pandas` · `NumPy` · `Power BI` · `Tableau`
+
+---
+
+## Actualmente aprendiendo
+
+Estoy profundizando mis conocimientos en:
 
 - Machine Learning
-- Optimization
-- Search Algorithms
-- Constraint Satisfaction
-- Intelligent Agents
-- AI-assisted software development
-
-### Systems
-
-Currently developing a deeper understanding of:
-
-- Operating Systems
-- Process Synchronization
-- Concurrency
-- Networking
-- Parallel Programming
-- Distributed Applications
+- Data Science
+- Inteligencia Artificial
+- Ingeniería de Software
+- Sistemas Distribuidos
+- Bases de Datos
+- Algoritmos y estructuras de datos
 
 ---
 
-## Featured Projects
+## Mi enfoque
 
-| Project | Description | Technologies |
-|---|---|---|
-| [Sistemas Operativos](#) | Collection of implementations focused on processes, synchronization, IPC and parallel programming | C · Linux · POSIX |
-| [Distributed Systems](#) | Client-server applications using Java RMI | Java · RMI |
-| [AI Projects](#) | Algorithms and optimization problems applied to real scenarios | Python |
-| [Software Projects](#) | Applications developed throughout my engineering journey | Java · Python · JavaScript |
+> **Aprender construyendo.**
+
+Me interesa entender cómo funcionan las cosas, experimentar con
+diferentes tecnologías y convertir conceptos teóricos en soluciones
+funcionales.
 
 ---
 
-## Currently Learning
+## GitHub Stats
 
-```text
-Software Architecture
-        ↓
-Distributed Systems
-        ↓
-Artificial Intelligence
-        ↓
-Backend Development
-        ↓
-Cloud & Scalable Systems
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=juan-ballesteross&show_icons=true&hide_border=true&rank_icon=github"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-ballesteross&layout=compact&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+## Conecta conmigo
+
+<p>
+  <a href="https://www.linkedin.com/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Construyendo, aprendiendo y mejorando un proyecto a la vez.</i>
+</p>
