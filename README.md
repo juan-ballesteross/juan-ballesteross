@@ -138,12 +138,18 @@ paralela.
 
 ---
 
-### Sistemas Distribuidos
+### [Gestión Inteligente de Tráfico Urbano](https://github.com/juan-ballesteross/gestion-trafico-urbano-distribuido)
 
-Desarrollo de aplicaciones cliente-servidor y comunicación distribuida,
-explorando diferentes mecanismos de interacción entre sistemas.
+Sistema distribuido sobre tres máquinas para gestionar el tráfico de una malla
+vial de 4×5 intersecciones. Los sensores de espira, cámara y GPS publican a un
+broker **ZeroMQ XSUB/XPUB**; la analítica detecta congestión y emite comandos
+JSON que el control traduce en cambios de fase de los semáforos.
 
-**Tecnologías:** `Java` · `RMI`
+**Detalle técnico:** combina los patrones PUB/SUB, PUSH/PULL y REQ/REP; incluye
+un broker multihilo para pruebas de rendimiento y **réplica de base de datos
+con failover** cuando la principal cae.
+
+**Tecnologías:** `C` · `ZeroMQ` · `SQLite` · `POSIX Threads` · `Linux` · `Make`
 
 ---
 
