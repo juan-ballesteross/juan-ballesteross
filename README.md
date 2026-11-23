@@ -8,8 +8,7 @@
 
 <a href="https://www.linkedin.com/in/juan-jos%C3%A9-ballesteros-suarez-924a87207/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=juan-ballesteross&label=Visitas&color=6DB33F&style=for-the-badge" alt="Visitas al perfil" />
+
 
 </div>
 
