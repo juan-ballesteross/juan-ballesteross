@@ -61,6 +61,8 @@ datos y machine learning.
 
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
@@ -75,6 +77,7 @@ datos y machine learning.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/H2-09476B?style=for-the-badge&logoColor=white" />
 </p>
 
 ### Herramientas y Entorno
@@ -84,6 +87,7 @@ datos y machine learning.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 ---
@@ -177,6 +181,23 @@ Car Meets y AI Tuning para visualizar un carro modificado con IA antes de
 invertir.
 
 **Tecnologías:** `Kotlin` · `Jetpack Compose` · `Firebase` · `Gemini`
+
+---
+
+### [The Royale](https://github.com/Jose-Villarroel/TheRoyale)
+
+Aplicación web para la gestión de un hotel boutique de lujo en Nueva York:
+reservas con control de disponibilidad, servicios cargados a la cuenta de la
+habitación y check-out, con roles de cliente, operador y administrador.
+
+Incluye un **asistente conversacional con Gemini** y un **planificador de
+visitas** que integra APIs externas reales (Ticketmaster, NYC Open Data y
+Open-Meteo/NWS para el clima), con caché y clientes falsos para las pruebas.
+
+**Mi aporte:** 32 commits como contributor, sobre un equipo de cuatro.
+
+**Tecnologías:** `Java 17` · `Spring Boot` · `Thymeleaf` · `Spring Data JPA` ·
+`Spring Security` · `JWT` · `H2` · `Maven` · `Selenium`
 
 ---
 
