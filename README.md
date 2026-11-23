@@ -30,8 +30,6 @@ datos y machine learning.
 
 ### Lenguajes
 
-### Lenguajes
-
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -49,15 +47,14 @@ datos y machine learning.
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ### Análisis y Visualización
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
 </p>
 
 ### Desarrollo
@@ -146,21 +143,40 @@ explorando diferentes mecanismos de interacción entre sistemas.
 
 ---
 
-### Inteligencia Artificial & Algoritmos
+### [Predicción de deserción y éxito académico](https://github.com/juan-ballesteross/prediccion-exito-academico-ml)
 
-Implementación de algoritmos de búsqueda, optimización y resolución de
-problemas utilizando diferentes estrategias computacionales.
+Clasificación multiclase del resultado académico de 4.424 estudiantes
+(`Dropout` / `Enrolled` / `Graduate`), comparando Regresión Logística contra SVM
+con selección de variables L1 y validación cruzada estratificada.
 
-**Tecnologías:** `Python` · `Scikit-learn` · `NumPy`
+**Resultado clave:** el SVM alcanza un F1 macro de **0,687** en prueba frente a
+0,672 del baseline, y los pesos balanceados suben el F1 de la clase minoritaria
+de **0,40 a 0,50**.
+
+**Tecnologías:** `Python` · `Scikit-learn` · `Pandas` · `NumPy`
 
 ---
 
-### Data Science & Analytics
+### [Stacking (Ensambles Heterogéneos)](https://github.com/juan-ballesteross/stacking-ensambles-heterogeneos)
 
-Exploración y análisis de datos mediante técnicas de procesamiento,
-visualización y machine learning.
+Implementación de stacking desde cero con predicciones out-of-fold, verificada
+contra la clase `StackingClassifier` de scikit-learn.
 
-**Tecnologías:** `Python` · `Pandas` · `NumPy` · `Power BI` · `Tableau`
+**Resultado clave:** la implementación manual reproduce **exactamente** a
+`StackingClassifier` (diferencia 0,0) y es significativamente mejor que los
+modelos base débiles según la prueba t corregida de Nadeau-Bengio.
+
+**Tecnologías:** `Python` · `Scikit-learn` · `SciPy` · `Jupyter`
+
+---
+
+### [MotorMates 2026](https://github.com/juan-ballesteross/MotorMates-2026)
+
+Red social Android para entusiastas de los autos: reseñas de vehículos, mapa de
+Car Meets y AI Tuning para visualizar un carro modificado con IA antes de
+invertir.
+
+**Tecnologías:** `Kotlin` · `Jetpack Compose` · `Firebase` · `Gemini`
 
 ---
 
@@ -206,7 +222,7 @@ funcionales.
 ## Conecta conmigo
 
 <p>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/juan-jos%C3%A9-ballesteros-suarez-924a87207/">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
